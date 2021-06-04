@@ -1,5 +1,5 @@
 # k8s
-Ci-dessous, les consignes de l'examen, qui donnera lieu à 3 .yml
+Ci-dessous, les consignes de l'examen, qui demandera 3 .yml
 
 ## Producteur
 - Créer un daemonSet nommé producteur basé sur l'image alpine
